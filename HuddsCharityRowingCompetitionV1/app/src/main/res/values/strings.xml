@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HuddsCharityRowingCompetitionV1</string>
+    <string name="splash_text">The Huddersfield </string>
+    <string name="rowing_competition">Rowing Competition</string>
+    <string name="on_the_narrow_canal">on The Narrow Canal!</string>
+    <string name="ppl">The people are cool</string>
+    <string-array name="pages">
+        <item> Home </item>
+        <item> Donate! </item>
+        <item> Location </item>
+        <item> Itinerary  </item>
+        <item> Book Now  </item>
+
+    </string-array>
+
+    <string-array name="pages2">
+        <item> Home </item>
+        <item> Donate! </item>
+        <item> Location </item>
+        <item> Itinerary  </item>
+        <item> Book Now  </item>
+
+    </string-array>
+
+</resources>
